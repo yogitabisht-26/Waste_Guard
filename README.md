@@ -1,6 +1,10 @@
 # wasteguardd
 
 A new Flutter project.
+Developed a model for project ideation, design, and development. 
+Built Frontend part of the application and backend systems and integrated ML models for waste surge prediction and illegal dumping detection.
+Developed user-friendly features for complaint tracking and real-time GPS monitoring.
+
 
 ## Getting Started
 
